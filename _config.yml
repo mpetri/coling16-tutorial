@@ -1,7 +1,6 @@
 # Site settings
-title: Good Clean Read
+title: Succinct Data Structures for NLP-at-Scale
 tag_text: Good Clean Read
-description: A responsive template for publishing single-page websites, articles that are easy on the eyes
 baseurl: ""
 
 font-awesome-include: true # make this false if you don't need font-awesome
