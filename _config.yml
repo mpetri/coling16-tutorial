@@ -6,16 +6,9 @@ permalink:           pretty
 # Setup
 title:               Succinct Data Structures for NLP-at-Scale
 authors:             'Matthias Petri and Trevor Cohn'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+url:                 https://mpetri.github.io/coling16-tutorial/
 baseurl:             ''
-paginate:            5
-
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+font-awesome-include: true # make this false if you don't need font-awesome
 
 # Custom vars
 version:             1.0.0
@@ -23,3 +16,5 @@ version:             1.0.0
 gems:
    - jekyll-coffeescript
    - jekyll-paginate
+   
+exclude: ["README.md","LICENSE.md","about.md"]
