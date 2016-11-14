@@ -88,6 +88,6 @@ The last session briefly touch on advanced succinct structures consisting of Ran
 
 * Giuseppe Ottaviano. Succinct -- Alternative Succinct Data structure library ([website](https://github.com/ot/succinct))
 
-* Ehsan Shareghi, Matthias Petri, Gholamreza Haffari and Trevor Cohn -- [Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees](http://aclweb.org/anthology/Q/Q16/Q16-1034.pdf)
+* Ehsan Shareghi, Matthias Petri, Gholamreza Haffari and Trevor Cohn -- [Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees](http://aclweb.org/anthology/Q/Q16/Q16-1034.pdf) TACL 2016
 
-* Ehsan Shareghi, Matthias Petri, Gholamreza Haffari and Trevor Cohn -- [Compact, Efficient and Unlimited Capacity: Language Modeling with Compressed Suffix Trees](http://aclweb.org/anthology/D/D15/D15-1288.pdf)
+* Ehsan Shareghi, Matthias Petri, Gholamreza Haffari and Trevor Cohn -- [Compact, Efficient and Unlimited Capacity: Language Modeling with Compressed Suffix Trees](http://aclweb.org/anthology/D/D15/D15-1288.pdf) EMNLP 2015
