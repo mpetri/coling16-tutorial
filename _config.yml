@@ -16,5 +16,6 @@ version:             1.0.0
 gems:
    - jekyll-coffeescript
    - jekyll-paginate
+   - jekyll-gist
    
 exclude: ["README.md","LICENSE.md","about.md"]
