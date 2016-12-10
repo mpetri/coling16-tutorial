@@ -88,7 +88,7 @@ The last session briefly touch on advanced succinct structures consisting of Ran
 
 {% gist mpetri/0419dc3850c8c2ba730e8bfdfeb45ccd %}
 
-## Exercise 3: Fancy counts
+## Extracting condcordances & co-occurrence counts
 
 {% gist anonymous/d86d423bd9664c0d5c5876e0ea5eba77 %}
 
