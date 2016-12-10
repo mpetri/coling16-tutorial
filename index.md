@@ -73,14 +73,24 @@ This session will cover our line of research on unlimited order language modelli
 The last session briefly touch on advanced succinct structures consisting of Range Minimum / Maximum Queries, Succinct Tries, Treaps and 2D-range query structures.
 
 
-# Practical Exercises
+# Code Snippets
 
-## Exercise 1: Direct-Accessible Variable-Length Codes (DAC)
+## Bitvector performance
 
-## Exercise 2: Building a CSA and CST over words
+{% gist mpetri/45408891218f792f04983100e9e1e3aa %}
+
+
+## Direct-Accessible Variable-Length Codes (DAC)
+
+{% gist mpetri/aaf85ec1baa36a14456ad5057306fbd7 %}
+
+## Building a simple CSA
+
+{% gist mpetri/0419dc3850c8c2ba730e8bfdfeb45ccd %}
 
 ## Exercise 3: Fancy counts
 
+{% gist anonymous/d86d423bd9664c0d5c5876e0ea5eba77 %}
 
 # Resources and References
 
