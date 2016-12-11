@@ -87,6 +87,10 @@ The last session briefly touch on advanced succinct structures consisting of Ran
 
 {% gist anonymous/d86d423bd9664c0d5c5876e0ea5eba77 %}
 
+## Extracting condcordance & co-occurrence counts (deep)
+
+{% gist anonymous/a4b9469bb68175c76ff266e2b9816654 %}
+
 # Resources and References
 
 * Gonzalo Navarro. Compact Data Structures -- A practical approach. Cambridge University Press, 570 pages, 2016 ([website](https://www.dcc.uchile.cl/~gnavarro/CDSbook/))
