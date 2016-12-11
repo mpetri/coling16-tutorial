@@ -75,11 +75,6 @@ The last session briefly touch on advanced succinct structures consisting of Ran
 
 # Code Snippets
 
-## Bitvector performance
-
-{% gist mpetri/45408891218f792f04983100e9e1e3aa %}
-
-
 ## Direct-Accessible Variable-Length Codes (DAC)
 
 {% gist mpetri/aaf85ec1baa36a14456ad5057306fbd7 %}
@@ -98,6 +93,6 @@ The last session briefly touch on advanced succinct structures consisting of Ran
 
 * Giuseppe Ottaviano. Succinct -- Alternative Succinct Data structure library ([website](https://github.com/ot/succinct))
 
-* Ehsan Shareghi, Matthias Petri, Gholamreza Haffari and Trevor Cohn -- [Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees](http://aclweb.org/anthology/Q/Q16/Q16-1034.pdf) TACL 2016
+* Ehsan Shareghi, Matthias Petri, Gholamreza Haffari and Trevor Cohn -- [Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees](http://aclweb.org/anthology/Q/Q16/Q16-1034.pdf) TACL 2016 - Code: [repo](https://github.com/mpetri/CSTLM/)
 
 * Ehsan Shareghi, Matthias Petri, Gholamreza Haffari and Trevor Cohn -- [Compact, Efficient and Unlimited Capacity: Language Modeling with Compressed Suffix Trees](http://aclweb.org/anthology/D/D15/D15-1288.pdf) EMNLP 2015
